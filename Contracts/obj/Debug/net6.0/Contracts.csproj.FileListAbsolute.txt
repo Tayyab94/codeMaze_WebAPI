@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\bin\Debug\net6.0\ref\Contracts.dll
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\Admin\Desktop\CodeMaze_WebAPI\Contracts\obj\Debug\net6.0\Contracts.pdb

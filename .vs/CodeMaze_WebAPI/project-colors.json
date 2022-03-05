@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7db89cc4-d67e-4900-a1df-a9b2bed0c5ab": {
+      "ProjectGuid": "7db89cc4-d67e-4900-a1df-a9b2bed0c5ab",
+      "DisplayName": "CodeMaze_WebAPI",
+      "ColorIndex": 0
+    },
+    "2b50248e-179b-4489-ae76-39d630165b40": {
+      "ProjectGuid": "2b50248e-179b-4489-ae76-39d630165b40",
+      "DisplayName": "Contracts",
+      "ColorIndex": 1
+    },
+    "0964eba9-51f7-4efb-bb30-a56e3c9d7830": {
+      "ProjectGuid": "0964eba9-51f7-4efb-bb30-a56e3c9d7830",
+      "DisplayName": "Repository",
+      "ColorIndex": 2
+    },
+    "47d1b608-0fd0-4e15-b595-1dff41056e7b": {
+      "ProjectGuid": "47d1b608-0fd0-4e15-b595-1dff41056e7b",
+      "DisplayName": "Entities",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
